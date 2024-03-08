@@ -38,11 +38,9 @@ Vanilla GANs consist of a Generator network (G) and a Discriminator network (D).
 - This is achieved by introducing an inverse mapping function, ensuring that G(F(y)) ≈ x and F(G(x)) ≈ y.
 
 ## Running the Project
-1. Clone the repository: `git clone https://github.com/your_username/image-style-transfer.git`
-2. Navigate to the project directory: `cd image-style-transfer`
-3. Open the Jupyter Notebook: `jupyter notebook image_style_transfer.ipynb`
+1. Clone the repository: `https://github.com/barenbaruna/Build-an-Image-Style-Transfer-Tool-using-CycleGANs.git`
+2. Navigate to the project directory: `cd Build-an-Image-Style-Transfer-Tool-using-CycleGANs`
+3. Open the Jupyter Notebook: `jupyter notebook Build-an-Image-Style-Transfer-Tool-using-CycleGANs.ipynb`
 4. Follow the instructions within the notebook to execute the project.
 
 Enjoy transforming your photos into Monet-inspired paintings with ease!
-
-
