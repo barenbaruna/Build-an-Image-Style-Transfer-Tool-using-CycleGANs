@@ -17,11 +17,12 @@ After completing this project, you will be able to:
 
 ## Setup
 For this project, you will need the following libraries:
-- `numpy` for mathematical operations.
-- `Pillow` for image processing functions.
-- `tensorflow` for machine learning and neural network-related functions.
-- `matplotlib` for additional plotting tools.
+- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_64x64.png" alt="Python" /> `numpy` for mathematical operations.
+- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_64x64.png" alt="Python" /> `Pillow` for image processing functions.
+- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_64x64.png" alt="Python" /> `tensorflow` for machine learning and neural network-related functions.
+- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python_64x64.png" alt="Python" /> `matplotlib` for additional plotting tools.
 
+## What is Image Style Transfer in Deep Learning?
 ## What is Image Style Transfer in Deep Learning?
 Image Style Transfer involves translating one image into another while preserving its content but adopting the style of a reference image. For instance, transforming a photo into a painting resembling the style of Monet.
 
