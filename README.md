@@ -21,10 +21,10 @@ After completing this project, you will be able to:
 
 ## Setup
 For this project, you will need the following libraries:
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="20"> numpy for mathematical operations.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png" width="20"> Pillow for image processing functions.
-- <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="20"> tensorflow for machine learning and neural network-related functions.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="20"> matplotlib for additional plotting tools.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="50"> numpy for mathematical operations.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png" width="50"> Pillow for image processing functions.
+- <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="50"> tensorflow for machine learning and neural network-related functions.
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="50"> matplotlib for additional plotting tools.
 
 ## What is Image Style Transfer in Deep Learning?
 ## What is Image Style Transfer in Deep Learning?
