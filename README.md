@@ -22,7 +22,8 @@ After completing this project, you will be able to:
 ## Setup
 For this project, you will need the following libraries:
 <div align="center">
-  <img src="![image](https://github.com/barenbaruna/Build-an-Image-Style-Transfer-Tool-using-CycleGANs/assets/117333101/9ce8566c-7987-4663-a64f-e5236b4dc256)" width="100">
+  <img src="![image](https://github.com/barenbaruna/Build-an-Image-Style-Transfer-Tool-using-CycleGANs/assets/117333101/409ebd79-2f14-4407-b3a8-1a825e2c13fe)
+" width="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png" width="100">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="100">
   <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="100">
