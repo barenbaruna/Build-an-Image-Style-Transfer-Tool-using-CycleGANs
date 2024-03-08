@@ -2,7 +2,7 @@
 
 Transform your photos into Monet-esque paintings with this CycleGAN-based image style transfer tool!
 
-![Monet Painting](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Claude_Monet%2C_Impression%2C_soleil_levant.jpg/1024px-Claude_Monet%2C_Impression%2C_soleil_levant.jpg)
+![Monet Painting](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Monet_dejeunersurlherbe.jpg/800px-Monet_dejeunersurlherbe.jpg)
 ## Overview
 Artists like Claude Monet are recognized for their unique styles, including color schemes and brush strokes. Replicating such styles manually is challenging even for professional painters. However, with the advent of Generative Adversarial Networks (GANs), particularly CycleGANs, Data Scientists and Machine Learning Engineers can develop models to transfer an artist's style to photographs.
 
