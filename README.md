@@ -1,5 +1,20 @@
 # Image Style Transfer Tool using CycleGANs
 
+<!-- Author -->
+<h2 align="left">📝 Authors:</h2>
+<ul>
+    <li><a>Talha Siddiqui</a></li>
+</ul>
+
+
+<!-- Mentee Information -->
+<h2 align="left">🚀 Mentee Information</h2>
+<ul align="left">
+    <li><strong>Name:</strong> Baren Baruna Harahap</li>
+    <li><strong>Program:</strong> MSIB Batch 6 (IBM Advance AI)</li>
+    <li><strong>Mentor:</strong> <a href="https://github.com/Ichsan-Takwa">Ichsan Takwa</a></li>
+</ul>
+
 Transform your photos into Monet-esque paintings with this CycleGAN-based image style transfer tool!
 
 <div align="center">
