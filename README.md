@@ -11,7 +11,7 @@
     <li><strong>Mentor:</strong> <a href="https://github.com/Ichsan-Takwa">Ichsan Takwa</a></li>
 </ul>
 
-Transform your photos into Monet-esque paintings with this CycleGAN-based image style transfer tool!
+<h3> Transform your photos into Monet-esque paintings with this CycleGAN-based image style transfer tool! </h3>
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Monet_dejeunersurlherbe.jpg/800px-Monet_dejeunersurlherbe.jpg" width="300"><br>
@@ -23,7 +23,7 @@ Artists like Claude Monet are recognized for their unique styles, including colo
 This project guides you through building a style transfer tool using CycleGANs, enabling you to translate your photos into paintings reminiscent of Monet's style.
 
 ## Objectives
-After completing this project, you will be able to:
+After completing this project, we will be able to:
 - Understand the novelty of CycleGANs.
 - Grasp the concept of Cycle Consistency Loss.
 - Describe the complex architecture of CycleGANs.
