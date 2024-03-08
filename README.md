@@ -1,11 +1,7 @@
 # Image Style Transfer Tool using CycleGANs
 
 <!-- Author -->
-<h2 align="left">📝 Authors:</h2>
-<ul>
-    <li><a>Roxanne Li</a></li>
-</ul>
-
+<h3 align="left">📝 Authors: Roxanne Li</h3>
 
 <!-- Mentee Information -->
 <h2 align="left">🚀 Mentee Information</h2>
