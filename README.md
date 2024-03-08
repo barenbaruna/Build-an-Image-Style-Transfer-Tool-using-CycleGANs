@@ -3,7 +3,7 @@
 <!-- Author -->
 <h2 align="left">📝 Authors:</h2>
 <ul>
-    <li><a>Talha Siddiqui</a></li>
+    <li><a>Roxanne Li</a></li>
 </ul>
 
 
@@ -71,3 +71,11 @@ Vanilla GANs consist of a Generator network (G) and a Discriminator network (D).
 4. Follow the instructions within the notebook to execute the project.
 
 Enjoy transforming your photos into Monet-inspired paintings with ease!
+
+<!-- Support -->
+<h2 align="left">📧 Support</h2>
+<p align="left">For any questions or issues regarding this project, feel free to contact me at <a href="mailto:barenbarunaharahap@gmail.com">barenbarunaharahap@gmail.com</a>.</p>
+
+<!-- Acknowledgements -->
+<h2 align="left">🙏 Acknowledgements</h2>
+<p align="left">Special thanks to IBM Advance AI @Infinite Learning for providing valuable insights and guidance throughout this course.</p>
