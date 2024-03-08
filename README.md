@@ -21,12 +21,20 @@ After completing this project, you will be able to:
 
 ## Setup
 For this project, you will need the following libraries:
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="50"> numpy for mathematical operations.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png" width="50"> Pillow for image processing functions.
-- <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="50"> tensorflow for machine learning and neural network-related functions.
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="50"> matplotlib for additional plotting tools.
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png" width="50">
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="50"><br>
+</div>
+<p align="center">For this project, you will need the following libraries:</p>
+<ul align="center">
+  <li>numpy for mathematical operations.</li>
+  <li>Pillow for image processing functions.</li>
+  <li>tensorflow for machine learning and neural network-related functions.</li>
+  <li>matplotlib for additional plotting tools.</li>
+</ul>
 
-## What is Image Style Transfer in Deep Learning?
 ## What is Image Style Transfer in Deep Learning?
 Image Style Transfer involves translating one image into another while preserving its content but adopting the style of a reference image. For instance, transforming a photo into a painting resembling the style of Monet.
 
