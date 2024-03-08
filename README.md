@@ -27,8 +27,7 @@ For this project, you will need the following libraries:
   <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" width="50"><br>
 </div>
-<p align="center">For this project, you will need the following libraries:</p>
-<ul align="center">
+<ul align="left">
   <li>numpy for mathematical operations.</li>
   <li>Pillow for image processing functions.</li>
   <li>tensorflow for machine learning and neural network-related functions.</li>
